@@ -1,0 +1,138 @@
+[
+  {
+    "name": "High Point Park Apartments, Conway, AR 72032",
+    "address": "2270 Meadowlake Rd, Conway, AR 72032",
+    "price": "$825/mo",
+    "beds": "2bd",
+    "bath": "2ba",
+    "listing": "https://www.trulia.com/c/ar/conway/high-point-park-2270-meadowlake-rd-conway-ar-72032--2064059261"
+  },
+  {
+    "name": "The Greens at Nutters Chapel Apartments, Conway, AR 72034",
+    "address": "1705 S Salem Rd, Conway, AR 72034",
+    "price": "$615 - $830/mo",
+    "beds": "1-2bd",
+    "bath": "1-2ba",
+    "listing": "https://www.trulia.com/c/ar/conway/the-greens-at-nutters-chapel-1705-s-salem-rd-conway-ar-72034--2107775973"
+  },
+  {
+    "name": "The Fairways at Nutters Chapel Apartments, Conway, AR 72034",
+    "address": "3300 Pebble Beach Dr, Conway, AR 72034",
+    "price": "$615 - $830/mo",
+    "beds": "1-2bd",
+    "bath": "1-2ba",
+    "listing": "https://www.trulia.com/c/ar/conway/the-fairways-at-nutters-chapel-3300-pebble-beach-dr-conway-ar-72034--2064079573"
+  },
+  {
+    "name": "The Links at Cadron Valley Apartments, Conway, AR 72034",
+    "address": "3400 Irby Dr, Conway, AR 72034",
+    "price": "$660 - $795/mo",
+    "beds": "1-2bd",
+    "bath": "1-2ba",
+    "listing": "https://www.trulia.com/c/ar/conway/the-links-at-cadron-valley-3400-irby-dr-conway-ar-72034--2349599250"
+  },
+  {
+    "name": "1404 Caldwell St #14, Conway, AR 72034",
+    "address": "1404 Caldwell St #14, Conway, AR 72034",
+    "price": "$725/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1404-caldwell-st-14-conway-ar-72034--2064070130"
+  },
+  {
+    "name": "1955 Keathley Dr #5536, Conway, AR 72032",
+    "address": "1955 Keathley Dr #5536, Conway, AR 72032",
+    "price": "$695/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1955-keathley-dr-5536-conway-ar-72032--2489325489"
+  },
+  {
+    "name": "1955 Keathley Dr #5503, Conway, AR 72032",
+    "address": "1955 Keathley Dr #5503, Conway, AR 72032",
+    "price": "$695/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1955-keathley-dr-5503-conway-ar-72032--2561413882"
+  },
+  {
+    "name": "1607 Independence Ave #F, Conway, AR 72034",
+    "address": "1607 Independence Ave #F, Conway, AR 72034",
+    "price": "$595/mo",
+    "beds": "2bd",
+    "bath": "1.5ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1607-independence-ave-f-conway-ar-72034--2433363503"
+  },
+  {
+    "name": "1313 Elm St #7, Conway, AR 72034",
+    "address": "1313 Elm St #7, Conway, AR 72034",
+    "price": "$800/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1313-elm-st-7-conway-ar-72034--2558230321"
+  },
+  {
+    "name": "1313 Elm St #13, Conway, AR 72034",
+    "address": "1313 Elm St #13, Conway, AR 72034",
+    "price": "$800/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1313-elm-st-13-conway-ar-72034--2558230322"
+  },
+  {
+    "name": "1313 Elm St #12, Conway, AR 72034",
+    "address": "1313 Elm St #12, Conway, AR 72034",
+    "price": "$800/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1313-elm-st-12-conway-ar-72034--2558230315"
+  },
+  {
+    "name": "1313 Elm St #11, Conway, AR 72034",
+    "address": "1313 Elm St #11, Conway, AR 72034",
+    "price": "$800/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1313-elm-st-11-conway-ar-72034--2558230316"
+  },
+  {
+    "name": "407 Watkins St #407, Conway, AR 72034",
+    "address": "407 Watkins St #407, Conway, AR 72034",
+    "price": "$800/mo",
+    "beds": "2bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/407-watkins-st-407-conway-ar-72034--2560083635"
+  },
+  {
+    "name": "1106 Gum St, Conway, AR 72032",
+    "address": "1106 Gum St, Conway, AR 72032",
+    "price": "$625/mo",
+    "beds": "3bd",
+    "bath": "1ba",
+    "listing": "https://www.trulia.com/p/ar/conway/1106-gum-st-conway-ar-72032--2064053794"
+  },
+  {
+    "name": "Centennial Valley (I/II) Apartments, Conway, AR 72034",
+    "address": "1601 Hogan Ln, Conway, AR 72034",
+    "price": "$560 - $720/mo",
+    "beds": "1-2bd",
+    "bath": "1-2ba",
+    "listing": "https://www.trulia.com/c/ar/conway/centennial-valley-i-ii-1601-hogan-ln-conway-ar-72034--2064071377"
+  },
+  {
+    "name": "2405 Washington Ave #F-2, Conway, AR 72032",
+    "address": "2405 Washington Ave #F-2, Conway, AR 72032",
+    "price": "$725/mo",
+    "beds": "2bd",
+    "bath": "1.5ba",
+    "listing": "https://www.trulia.com/p/ar/conway/2405-washington-ave-f-2-conway-ar-72032--2179395302"
+  },
+  {
+    "name": "2 bed, 1.5 bath, $900, Conway, AR 72034",
+    "address": "706-708 S Mitchell St, Conway, AR 72034",
+    "price": "$900/mo",
+    "beds": "2bd",
+    "bath": "1.5ba",
+    "listing": "https://www.trulia.com/c/ar/conway/2-bed-1-5-bath-900-706-708-s-mitchell-st-conway-ar-72034--2557559142"
+  }
+]

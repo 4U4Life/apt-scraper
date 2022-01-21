@@ -1,0 +1,15 @@
+{
+  "name": "rentals",
+  "version": "1.0.0",
+  "description": "Notes:\r     X-ray Github\r     https://github.com/matthewmueller/x-ray\r     Good vid example\r     https://egghead.io/lessons/node-js-web-scraping-images-with-node-xray-and-download",
+  "main": "xray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "express": "^4.17.2"
+  }
+}
